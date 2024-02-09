@@ -1,0 +1,6 @@
+@media screen and (max-width: 1200px) {
+    .menu-item:nth-child(-n + 3) {
+        margin-right: 84px;
+    }
+
+}
